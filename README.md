@@ -3,7 +3,7 @@
 - 👀 I’m into travel, real estate investing, technology, remodeling houses, crypto, snowboarding and all things outdoors. 
 - 🌱 I’m currently learning React.JS, Node.JS, SASS, and TypeScript.
 - 💞️ I’m looking for a job where I can build cool front-end projects with smart people.
-- 📫 How to reach me - find me on linkedin at Ryan Evans Consulting, located in Cleveland, Ohio.
+- 📫 How to reach me - find me on linkedin at Ryan Evans Consulting, located in Seattle, WA.
 
 <!---
 ryanevans253/ryanevans253 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Ryan Evans
-- ⚡  I'm an experienced software developer with a background in technical business consulting.
-- 👀 I’m into technology, travel, real estate investing, snowboarding, mountain biking, and all things outdoors. 
-- 🌱 I’m currently working mostly with React, TypeScript, Next.JS, REST API's, SASS, and WordPress core.
-- 📫 How to reach me - find me on linkedin at Ryan Evans Consulting, located in Kirkland, WA.
+## Hi, I’m Ryan Evans 👋
 
-<!---
-ryanevans253/ryanevans253 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Lead software engineer building systems that turn complex real-world operations into software people actually want to use.
+
+I currently work in the maritime logistics space at OpenTug, building mapping, automation, and operational platforms used by large energy and transportation companies.
+
+### What I work on
+- Distributed web applications and operational platforms
+- Mapping, GIS, and real-time logistics systems
+- AI-assisted engineering workflows
+- Scalable frontend architecture and developer tooling
+
+### Tech
+TypeScript • React • SolidJS • Node.js • PostgreSQL • Docker • Mapbox • AWS
+
+### Outside of coding
+Snowboarding, mountain biking, travel, real estate investing, and exploring the outdoors around the Pacific Northwest.
+
+### Connect
+LinkedIn: Ryan Evans — Seattle / Kirkland, WA
